@@ -1,0 +1,10 @@
+{
+  "name": "Polymer-with-Angular",
+  "version": "1.0",
+  "author": "Vinod Varghese",
+  "dependencies": {
+    "polymer": "~1.2.4",
+    "google-map": "GoogleWebComponents/google-map#~1.1.10",
+    "paper-button": "PolymerElements/paper-button#~1.0.11"
+  }
+}

@@ -1,0 +1,11 @@
+
+google-map {
+  display: block;
+  height: 500px;
+  width:500px;
+}
+
+paper-button.fancy {
+  background: #ccc;
+
+}
